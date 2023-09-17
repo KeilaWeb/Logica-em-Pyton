@@ -1,2 +1,2 @@
 # pythonexercicios
- Curso de Python do CursoemVídeo
+|| 100 atividades || Curso de Python do CursoemVídeo
